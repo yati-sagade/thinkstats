@@ -1,0 +1,66 @@
+> Which summary statistic would you use if you wanted to get a story on the
+> evening news?
+
+Evening news "stories" better have something exciting and groundbreaking. So,
+the relative risk measure makes sense here, which shows that while first babies
+are 8% more likely to arrive prematurely, they are 11% less likely to arrive on
+time and 65% more likely to arrive late.
+Also, the percentage differences in the gestations period PMFs makes sense to
+be put on TV, as it highlights the apparent fact that first children are less
+likely to arrive in week 39 and slightly more likely to arrive in week 41.
+
+> Which ones would you use if you wanted to reassure an anxious patient?
+
+For an anxious patient wondering if her pregnancy is going to take too long
+the fact that the average gestation period of first babies is about 13 hours
+longer than the average gestation period for subsequent babies should be
+reassuring. The difference in PMFs can also be shown to a patient stating that
+slightly long pregnancies in case of a first baby are perfectly normal and such
+cases are not at all rare.
+
+
+> Do first babies arrive late? 
+
+The average "normal" pregnancy is about 39 weeks or 9 months long. But is there
+a significant difference in the gestation periods of first babies and
+subsequent babies? The question is, do first babies tend to arrive late?
+
+We shall use the National Survey of Family Growth(NSFG) cycle 6(2002) data
+which contains data on the pregancies of American women. We consider only live
+births. The findings after descriptive statistical analysis are as follows:
+
+1. Of the total 13,593 pregnancies, 9,148 were live pregnancies.
+2. Of the 9,148 live pregnancies, 4413(48.24%) were first pregnancies and
+   4735(51.76%) were subsequent pregnancies.
+3. The average length of a first pregnancy was 38.6 weeks, whereas that of
+   subsequent pregnancies was 38.52 weeks, making the mean gestation period
+   for first babies about 13 hours longer than that for subsequent babies.
+4. When we look at the PMFs of the gestation periods for first babies and for
+   subsequent babies, we see that both reach their mode at about 39 weeks,
+   suggesting that first babies do tend to arrive on time.
+5. When we look at the _difference_ in the PMFs of first gestation periods and
+   subsequent gestation periods, however, we can see that first babies are
+   comparitively less likely to arrive on time versus subsequent babies, and 
+   are slightly more likely to arrive late in week 41.
+6. When we look at the conditional probability distributions of both the cases,
+   we see that the chance of having a first baby on time is _comparitively_
+   less than the chance of having a subsequent baby on time given that the
+   baby did not arrive early, but the chance of a first baby arriving late does
+   trump out the chance of having a subsequent baby late given the baby did not
+   arrive early or on time.
+7. Looking at the relative risks, which is just the ratio of the fraction of
+   first pregnancy lengths which lie within a given range to the fraction
+   subsequent pregnancy lengths that lie within the same range.
+   This study shows that while first babies are about 8% more likely to arrive
+   early, they are 11% less likely to arrive on time copared to subsequent
+   babies. Also, first babies are 65% more likely to arrive late!
+
+Conclusion
+==========
+While some summary statistics suggest that there is not much of a difference in
+the gestation periods for first and subsequent babies, when we compare both, it
+does turn out that first pregnancies are likely to be longer than subsequent
+pregnancies.
+
+
+
